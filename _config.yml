@@ -1,0 +1,14 @@
+layout_spectrum: 0.9892473
+color:
+  saturation: 0.9347153
+  lightness: 0.5212422
+  brandStrength: 0.1524229
+  brandColors:
+    - '#0F0F0F'
+    - '#301410'
+    - '#603E15'
+    - '#382717'
+    - '#75542C'
+  rhythmicContrast: 0.054878
+typography_spectrum: 0.2580645
+name: Gass Lab
