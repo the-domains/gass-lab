@@ -1,4 +1,4 @@
-name: Gass Lab
+name: The Gass Lab
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.50012
@@ -28,12 +28,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020100'
-    - '#441a04'
-    - '#765b24'
-    - '#828154'
-    - '#081553'
-  brandStrength: 0.125
+    - '#8d9799'
+    - '#040404'
+    - '#445f87'
+    - '#8d473a'
+    - '#d1d0d6'
+  brandStrength: 0.25
   lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0
