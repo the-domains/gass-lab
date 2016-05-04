@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Justin Gass, PhD'
-datePublished: '2016-05-04T23:16:25.271Z'
-dateModified: '2016-05-04T23:16:11.940Z'
+datePublished: '2016-05-04T23:18:09.420Z'
+dateModified: '2016-05-04T23:17:24.324Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,3 @@ _type: Blurb
 
 ---
 Justin Gass, PhD
-![Principal Investigator for the Gass lab](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e3f0af-cd3d-4055-8ad7-5adbca82158e.jpg)
-
-Principal Investigator
