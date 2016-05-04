@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Justin Gass, PhD'
-datePublished: '2016-05-04T23:16:03.483Z'
-dateModified: '2016-05-04T23:15:42.871Z'
+datePublished: '2016-05-04T23:16:25.271Z'
+dateModified: '2016-05-04T23:16:11.940Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
