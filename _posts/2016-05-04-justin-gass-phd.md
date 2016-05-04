@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Justin Gass, PhD'
-datePublished: '2016-05-04T23:08:14.252Z'
-dateModified: '2016-05-04T23:08:06.741Z'
+datePublished: '2016-05-04T23:09:36.959Z'
+dateModified: '2016-05-04T23:08:49.779Z'
 title: ''
 author:
   - name: ''
