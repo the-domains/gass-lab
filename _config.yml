@@ -1,9 +1,7 @@
-favicon: null
 name: The Gass Lab
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.718638
+typography_spectrum: 0.50012
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5488722
-  brandStrength: 0.4987469
-  lightness: 0.8787314
   brandColors:
     - '#000000'
     - '#011F5F'
     - '#382913'
     - '#6982B8'
     - '#A1B0EA'
+  brandStrength: 0.8125
+  lightness: 0.8787314
+  saturation: 0.5488722
   rhythmicContrast: 0
-typography_spectrum: 0.50012
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.718638
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
