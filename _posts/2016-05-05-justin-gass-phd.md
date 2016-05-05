@@ -1,15 +1,26 @@
 ---
-author: []
-title: 'Justin Gass, PhD'
-description: ''
-dateModified: '2016-05-05T01:09:17.371Z'
-datePublished: '2016-05-05T01:10:04.559Z'
-starred: false
-sourcePath: _posts/2016-05-05-justin-gass-phd.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-05T12:39:00.890Z'
+dateModified: '2016-05-05T12:23:37.922Z'
+author:
+  - name: ''
+    url: ''
+title: 'Justin Gass, PhD'
+sourcePath: _posts/2016-05-05-justin-gass-phd.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Justin Gass, PhD
