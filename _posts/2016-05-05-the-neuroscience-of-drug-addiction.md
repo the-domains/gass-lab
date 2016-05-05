@@ -1,15 +1,26 @@
 ---
-author: []
-title: The Neuroscience of Drug Addiction
-description: ''
-dateModified: '2016-05-05T02:02:48.476Z'
-datePublished: '2016-05-05T02:04:03.463Z'
-starred: false
-sourcePath: _posts/2016-05-05-the-neuroscience-of-drug-addiction.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-05T12:38:39.337Z'
+dateModified: '2016-05-05T12:23:14.657Z'
+author:
+  - name: ''
+    url: ''
+title: The Neuroscience of Drug Addiction
+sourcePath: _posts/2016-05-05-the-neuroscience-of-drug-addiction.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccaa30e7-217a-4464-8944-af0f12f0729c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b2749d2819a96a36cc74c81f47ea0781a31e787.jpg)
