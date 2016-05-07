@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ryan Newsom, PhD'
-datePublished: '2016-05-07T01:48:54.286Z'
-dateModified: '2016-05-07T01:48:36.874Z'
+datePublished: '2016-05-07T01:50:49.354Z'
+dateModified: '2016-05-07T01:50:38.791Z'
 title: Post-doctoral Fellow
 author:
   - name: ''
@@ -17,8 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
 sourcePath: _posts/2016-05-07-post-doctoral-fellow.md
+starred: false
 url: post-doctoral-fellow/index.html
 _type: Article
 
