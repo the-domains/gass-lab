@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Gass Lab]]></title>
         <description><![CDATA[The Gass Lab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gass-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 01:49:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 01:50:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gass-lab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Post-doctoral Fellow]]></title>
             <description><![CDATA[<article><h1>Post-doctoral Fellow</h1><p>Ryan Newsom, PhD</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be54429eea2b8652086a3a969b29de679af120ea.jpg"></article>]]></description>
-            <link>undefinedpost-doctoral-fellow/index.html</link>
+            <link>https://thegrid.ai/gass-lab/post-doctoral-fellow/index.html</link>
             <guid isPermaLink="false">824b4843-2c37-4ba4-beff-c6a1f7148885</guid>
-            <pubDate>Sat, 07 May 2016 01:48:54 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 01:50:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
