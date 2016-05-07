@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Gass Lab]]></title>
+        <description><![CDATA[The Gass Lab]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 01:49:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post-doctoral Fellow]]></title>
+            <description><![CDATA[<article><h1>Post-doctoral Fellow</h1><p>Ryan Newsom, PhD</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be54429eea2b8652086a3a969b29de679af120ea.jpg"></article>]]></description>
+            <link>undefinedpost-doctoral-fellow/index.html</link>
+            <guid isPermaLink="false">824b4843-2c37-4ba4-beff-c6a1f7148885</guid>
+            <pubDate>Sat, 07 May 2016 01:48:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
