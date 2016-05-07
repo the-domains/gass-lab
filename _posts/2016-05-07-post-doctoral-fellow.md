@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Ryan Newsom, PhD'
-datePublished: '2016-05-07T15:00:45.902Z'
-dateModified: '2016-05-07T14:13:58.355Z'
+datePublished: '2016-05-07T17:31:20.909Z'
+dateModified: '2016-05-07T17:31:20.727Z'
 title: Post-doctoral Fellow
 author:
   - name: ''
