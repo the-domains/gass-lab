@@ -6,12 +6,13 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Justin McGonigal, B.S.'
-datePublished: '2016-05-07T01:52:44.878Z'
-dateModified: '2016-05-07T01:52:44.696Z'
+datePublished: '2016-05-07T01:57:15.112Z'
+dateModified: '2016-05-07T01:56:55.337Z'
 title: Research Specialist II
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-07-research-specialist-ii.md
 authors: []
 publisher:
   name: null
@@ -19,7 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-research-specialist-ii.md
 _type: Blurb
 
 ---
