@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'Justin McGonigal, B.S.'
-datePublished: '2016-05-07T22:09:54.363Z'
-dateModified: '2016-05-07T21:55:42.963Z'
+description: ''
+datePublished: '2016-05-10T00:31:26.793Z'
+dateModified: '2016-05-10T00:30:54.388Z'
 title: Research Specialist II
 author:
   - name: ''
@@ -23,6 +23,7 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b0bc352-c931-4f01-8c32-167ff2e6dbd6.jpg)
-
 Justin McGonigal, B.S.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/44fe0fc4c2f24e15b08fbdfc852bb27011a64fc2.jpg)
+
+Research Specialist II
