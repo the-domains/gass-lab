@@ -6,19 +6,15 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T00:38:49.037Z'
-dateModified: '2016-05-10T00:36:11.994Z'
+datePublished: '2016-05-25T15:03:58.404Z'
+dateModified: '2016-05-25T15:03:35.304Z'
 title: Research Specialist II
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-07-research-specialist-ii.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 _type: Blurb
 
