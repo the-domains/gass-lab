@@ -22,14 +22,14 @@ color:
     - '#6982B8'
     - '#A1B0EA'
   lightness: 0.5625
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: The Gass Lab
 opengraph:
@@ -37,4 +37,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.46807
-layout_spectrum: 1
+layout_spectrum: 0.3591906
