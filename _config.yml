@@ -5,16 +5,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.9030354
   brandStrength: 0.8125
-  lightness: 0.7849916
+  lightness: 0.2942664
   brandColors:
     - '#000000'
     - '#011F5F'
@@ -26,12 +26,12 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: The Gass Lab
-favicon: null
 opengraph:
   image: null
   type: null
